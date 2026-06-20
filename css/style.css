@@ -1,0 +1,20 @@
+
+h1{
+    text-align: center;
+    color: red;
+    background-color: lightgray;
+}
+
+p{
+    background-color: aqua;
+}
+
+body{
+    background-color: lightyellow;
+}
+
+/*
+selector{
+    property: value;
+}
+*/
