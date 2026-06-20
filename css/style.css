@@ -8,11 +8,16 @@
 p{
     background-color: aqua;
 }
+*/
 
-/*
 body{
-    background-color: yellow;
-}*/
+    background-image: url('../assets/img1-flower.avif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:center;
+    
+}
 
 /*
 selector{
