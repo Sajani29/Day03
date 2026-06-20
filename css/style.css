@@ -10,7 +10,7 @@ p{
 }
 
 body{
-    background-color: lightyellow;
+    background-color: yellow;
 }
 
 /*
@@ -18,3 +18,12 @@ selector{
     property: value;
 }
 */
+<!-- This is class selector-->
+.bd-color-red{
+    color: red;
+}
+
+.bd-color-green{
+    color: green;
+    text-align: center;
+}
